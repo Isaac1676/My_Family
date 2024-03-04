@@ -173,22 +173,24 @@ class _ChildNameState extends State<ChildName> {
           ),
         ),
       ),
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        children: [
-          const SizedBox(
-            height: 80,
-          ),
-          MyTextfield(controller: nameController, hintText: "Name"),
-          const SizedBox(
-            height: 80,
-          ),
-          MyTextfield(controller: dateController, hintText: "DD/MM/YYYY"),
-          const SizedBox(
-            height: 100,
-          ),
-          saveButton()
-        ],
+      body: SingleChildScrollView(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            const SizedBox(
+              height: 80,
+            ),
+            MyTextfield(controller: nameController, hintText: "Name"),
+            const SizedBox(
+              height: 80,
+            ),
+            MyTextfield(controller: dateController, hintText: "DD/MM/YYYY"),
+            const SizedBox(
+              height: 100,
+            ),
+            saveButton()
+          ],
+        ),
       ),
     );
   }
