@@ -40,6 +40,14 @@ Les dépendances suivantes sont utilisées dans ce projet :
 - Flutter : [flutter/flutter](https://github.com/flutter/flutter)
 - Isar Database : [isar/isar](https://github.com/isar/isar)
 
+## Captures d'écran
+
+![Capture d'écran 1]("C:\Users\DPcomputer\Pictures\Screenshots\1.png")
+
+![Capture d'écran 2]"C:\Users\DPcomputer\Pictures\Screenshots\2.png")
+
+![Capture d'écran 3]("C:\Users\DPcomputer\Pictures\Screenshots\3.png")
+
 ## Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
