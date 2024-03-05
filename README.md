@@ -42,11 +42,11 @@ Les dépendances suivantes sont utilisées dans ce projet :
 
 ## Captures d'écran
 
-![Capture d'écran 1]("C:\Users\DPcomputer\Pictures\Screenshots\1.png")
+![1](https://github.com/Isaac1676/My_Family/assets/140208481/0929c3c5-840b-4c92-88a0-170d07cf9494)
 
-![Capture d'écran 2]"C:\Users\DPcomputer\Pictures\Screenshots\2.png")
+![2](https://github.com/Isaac1676/My_Family/assets/140208481/c4cd3067-f920-49cb-b979-ab881af2cee7)
 
-![Capture d'écran 3]("C:\Users\DPcomputer\Pictures\Screenshots\3.png")
+![3](https://github.com/Isaac1676/My_Family/assets/140208481/5e503532-ae74-45e4-b8cf-29d71d62af42)
 
 ## Contribuer
 
