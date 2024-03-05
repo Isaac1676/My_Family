@@ -12,13 +12,13 @@ Bienvenue dans l'application Family Simulator ! Cette application basée sur Flu
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-projet.git
+git clone https://github.com/Isaac1676/My_Family.git
 ```
 
 2. Accédez au répertoire du projet :
 
 ```bash
-cd nom-du-projet
+cd My_Family
 ```
 
 3. Installez les dépendances :
