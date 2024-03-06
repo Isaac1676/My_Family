@@ -12,13 +12,13 @@ Bienvenue dans l'application Family Simulator ! Cette application basée sur Flu
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-projet.git
+git clone https://github.com/Isaac1676/My_Family.git
 ```
 
 2. Accédez au répertoire du projet :
 
 ```bash
-cd nom-du-projet
+cd My_Family
 ```
 
 3. Installez les dépendances :
@@ -39,6 +39,14 @@ Les dépendances suivantes sont utilisées dans ce projet :
 
 - Flutter : [flutter/flutter](https://github.com/flutter/flutter)
 - Isar Database : [isar/isar](https://github.com/isar/isar)
+
+## Captures d'écran
+
+![1](https://github.com/Isaac1676/My_Family/assets/140208481/0929c3c5-840b-4c92-88a0-170d07cf9494)
+
+![2](https://github.com/Isaac1676/My_Family/assets/140208481/c4cd3067-f920-49cb-b979-ab881af2cee7)
+
+![3](https://github.com/Isaac1676/My_Family/assets/140208481/5e503532-ae74-45e4-b8cf-29d71d62af42)
 
 ## Contribuer
 
