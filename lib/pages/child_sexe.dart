@@ -72,7 +72,7 @@ class _ChildSexeState extends State<ChildSexe> {
                         bottom: 0,
                         right: 0,
                         child: Icon(
-                          Icons.check_circle_outline_rounded,
+                          Icons.check_circle,
                           color: Colors.blue,
                           size: 35,
                         ),
@@ -95,7 +95,7 @@ class _ChildSexeState extends State<ChildSexe> {
                         bottom: 0,
                         right: 0,
                         child: Icon(
-                          Icons.check_circle_outline_rounded,
+                          Icons.check_circle,
                           color: Colors.blue,
                           size: 35,
                         ),
