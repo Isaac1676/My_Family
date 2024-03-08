@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:my_family/models/models.dart';
+import 'package:my_family/pages/child_page.dart';
 
 class MyList extends StatelessWidget {
   final String title;
@@ -36,10 +38,16 @@ class MyList extends StatelessWidget {
         ),
         title: Text(title, style: const TextStyle(fontFamily: "Rubik")),
         subtitle: Text(subtitle, style: const TextStyle(fontFamily: "Rubik")),
-        trailing: const Icon(
-          Icons.arrow_forward_ios_outlined,
-          color: Colors.black87,
-          size: 20,
+        trailing: IconButton(
+          onPressed: () => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => ChildPage(child: User(name:title, age: subtitle, image: image)))
+          ),
+          icon: const Icon(
+            Icons.arrow_forward_ios_rounded,
+            color: Colors.black87,
+            size: 25,
+            ),
         ),
       ),
     );
